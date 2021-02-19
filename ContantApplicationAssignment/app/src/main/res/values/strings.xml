@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContantApplicationAssignment</string>
+    <string name="view_contacts">VIEW CONTACTS</string>
+    <string name="add_contact">ADD CONTACT</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="display">Display</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>

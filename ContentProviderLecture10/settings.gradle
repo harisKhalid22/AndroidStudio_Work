@@ -1,0 +1,2 @@
+rootProject.name='ContentProviderLecture10'
+include ':app'

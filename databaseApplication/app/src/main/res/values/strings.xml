@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">databaseApplication</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+    <string name="view">View</string>
+    <string name="insert">Insert</string>
+</resources>
